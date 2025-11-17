@@ -1,0 +1,246 @@
+----- SOLUCAO 1:
+0-Estado Inicial (A,B,C) (8,0,0)
+1-Transferiu de A para B (3,5,0)
+2-Transferiu de A para C (0,5,3)
+3-Transferiu de B para A (5,0,3)
+6-Transferiu de C para B (5,3,0)
+2-Transferiu de A para C (2,3,3)
+6-Transferiu de C para B (2,5,1)
+3-Transferiu de B para A (7,0,1)
+6-Transferiu de C para B (7,1,0)
+2-Transferiu de A para C (4,1,3)
+6-Transferiu de C para B (4,4,0)
+----- Profundidade: 10
+
+----- SOLUCAO 2:
+0-Estado Inicial (A,B,C) (8,0,0)
+1-Transferiu de A para B (3,5,0)
+4-Transferiu de B para C (3,2,3)
+1-Transferiu de A para B (0,5,3)
+3-Transferiu de B para A (5,0,3)
+6-Transferiu de C para B (5,3,0)
+2-Transferiu de A para C (2,3,3)
+6-Transferiu de C para B (2,5,1)
+3-Transferiu de B para A (7,0,1)
+6-Transferiu de C para B (7,1,0)
+2-Transferiu de A para C (4,1,3)
+6-Transferiu de C para B (4,4,0)
+----- Profundidade: 11
+
+----- SOLUCAO 3:
+0-Estado Inicial (A,B,C) (8,0,0)
+1-Transferiu de A para B (3,5,0)
+4-Transferiu de B para C (3,2,3)
+3-Transferiu de B para A (5,0,3)
+6-Transferiu de C para B (5,3,0)
+2-Transferiu de A para C (2,3,3)
+6-Transferiu de C para B (2,5,1)
+3-Transferiu de B para A (7,0,1)
+6-Transferiu de C para B (7,1,0)
+2-Transferiu de A para C (4,1,3)
+6-Transferiu de C para B (4,4,0)
+----- Profundidade: 10
+
+----- SOLUCAO 4:
+0-Estado Inicial (A,B,C) (8,0,0)
+1-Transferiu de A para B (3,5,0)
+4-Transferiu de B para C (3,2,3)
+5-Transferiu de C para A (6,2,0)
+4-Transferiu de B para C (6,0,2)
+1-Transferiu de A para B (1,5,2)
+2-Transferiu de A para C (0,5,3)
+3-Transferiu de B para A (5,0,3)
+6-Transferiu de C para B (5,3,0)
+2-Transferiu de A para C (2,3,3)
+6-Transferiu de C para B (2,5,1)
+3-Transferiu de B para A (7,0,1)
+6-Transferiu de C para B (7,1,0)
+2-Transferiu de A para C (4,1,3)
+6-Transferiu de C para B (4,4,0)
+----- Profundidade: 14
+
+----- SOLUCAO 5:
+0-Estado Inicial (A,B,C) (8,0,0)
+1-Transferiu de A para B (3,5,0)
+4-Transferiu de B para C (3,2,3)
+5-Transferiu de C para A (6,2,0)
+4-Transferiu de B para C (6,0,2)
+1-Transferiu de A para B (1,5,2)
+4-Transferiu de B para C (1,4,3)
+1-Transferiu de A para B (0,5,3)
+3-Transferiu de B para A (5,0,3)
+6-Transferiu de C para B (5,3,0)
+2-Transferiu de A para C (2,3,3)
+6-Transferiu de C para B (2,5,1)
+3-Transferiu de B para A (7,0,1)
+6-Transferiu de C para B (7,1,0)
+2-Transferiu de A para C (4,1,3)
+6-Transferiu de C para B (4,4,0)
+----- Profundidade: 15
+
+----- SOLUCAO 6:
+0-Estado Inicial (A,B,C) (8,0,0)
+1-Transferiu de A para B (3,5,0)
+4-Transferiu de B para C (3,2,3)
+5-Transferiu de C para A (6,2,0)
+4-Transferiu de B para C (6,0,2)
+1-Transferiu de A para B (1,5,2)
+4-Transferiu de B para C (1,4,3)
+3-Transferiu de B para A (5,0,3)
+6-Transferiu de C para B (5,3,0)
+2-Transferiu de A para C (2,3,3)
+6-Transferiu de C para B (2,5,1)
+3-Transferiu de B para A (7,0,1)
+6-Transferiu de C para B (7,1,0)
+2-Transferiu de A para C (4,1,3)
+6-Transferiu de C para B (4,4,0)
+----- Profundidade: 14
+
+----- SOLUCAO 7:
+0-Estado Inicial (A,B,C) (8,0,0)
+1-Transferiu de A para B (3,5,0)
+4-Transferiu de B para C (3,2,3)
+5-Transferiu de C para A (6,2,0)
+4-Transferiu de B para C (6,0,2)
+1-Transferiu de A para B (1,5,2)
+4-Transferiu de B para C (1,4,3)
+5-Transferiu de C para A (4,4,0)
+----- Profundidade: 7
+
+----- SOLUCAO 8:
+0-Estado Inicial (A,B,C) (8,0,0)
+1-Transferiu de A para B (3,5,0)
+4-Transferiu de B para C (3,2,3)
+5-Transferiu de C para A (6,2,0)
+4-Transferiu de B para C (6,0,2)
+2-Transferiu de A para C (5,0,3)
+6-Transferiu de C para B (5,3,0)
+2-Transferiu de A para C (2,3,3)
+6-Transferiu de C para B (2,5,1)
+3-Transferiu de B para A (7,0,1)
+6-Transferiu de C para B (7,1,0)
+2-Transferiu de A para C (4,1,3)
+6-Transferiu de C para B (4,4,0)
+----- Profundidade: 12
+
+----- SOLUCAO 9:
+0-Estado Inicial (A,B,C) (8,0,0)
+2-Transferiu de A para C (5,0,3)
+1-Transferiu de A para B (0,5,3)
+5-Transferiu de C para A (3,5,0)
+4-Transferiu de B para C (3,2,3)
+5-Transferiu de C para A (6,2,0)
+4-Transferiu de B para C (6,0,2)
+1-Transferiu de A para B (1,5,2)
+4-Transferiu de B para C (1,4,3)
+5-Transferiu de C para A (4,4,0)
+----- Profundidade: 9
+
+----- SOLUCAO 10:
+0-Estado Inicial (A,B,C) (8,0,0)
+2-Transferiu de A para C (5,0,3)
+6-Transferiu de C para B (5,3,0)
+1-Transferiu de A para B (3,5,0)
+4-Transferiu de B para C (3,2,3)
+5-Transferiu de C para A (6,2,0)
+4-Transferiu de B para C (6,0,2)
+1-Transferiu de A para B (1,5,2)
+4-Transferiu de B para C (1,4,3)
+5-Transferiu de C para A (4,4,0)
+----- Profundidade: 9
+
+----- SOLUCAO 11:
+0-Estado Inicial (A,B,C) (8,0,0)
+2-Transferiu de A para C (5,0,3)
+6-Transferiu de C para B (5,3,0)
+2-Transferiu de A para C (2,3,3)
+1-Transferiu de A para B (0,5,3)
+5-Transferiu de C para A (3,5,0)
+4-Transferiu de B para C (3,2,3)
+5-Transferiu de C para A (6,2,0)
+4-Transferiu de B para C (6,0,2)
+1-Transferiu de A para B (1,5,2)
+4-Transferiu de B para C (1,4,3)
+5-Transferiu de C para A (4,4,0)
+----- Profundidade: 11
+
+----- SOLUCAO 12:
+0-Estado Inicial (A,B,C) (8,0,0)
+2-Transferiu de A para C (5,0,3)
+6-Transferiu de C para B (5,3,0)
+2-Transferiu de A para C (2,3,3)
+6-Transferiu de C para B (2,5,1)
+2-Transferiu de A para C (0,5,3)
+5-Transferiu de C para A (3,5,0)
+4-Transferiu de B para C (3,2,3)
+5-Transferiu de C para A (6,2,0)
+4-Transferiu de B para C (6,0,2)
+1-Transferiu de A para B (1,5,2)
+4-Transferiu de B para C (1,4,3)
+5-Transferiu de C para A (4,4,0)
+----- Profundidade: 12
+
+----- SOLUCAO 13:
+0-Estado Inicial (A,B,C) (8,0,0)
+2-Transferiu de A para C (5,0,3)
+6-Transferiu de C para B (5,3,0)
+2-Transferiu de A para C (2,3,3)
+6-Transferiu de C para B (2,5,1)
+3-Transferiu de B para A (7,0,1)
+6-Transferiu de C para B (7,1,0)
+1-Transferiu de A para B (3,5,0)
+4-Transferiu de B para C (3,2,3)
+5-Transferiu de C para A (6,2,0)
+4-Transferiu de B para C (6,0,2)
+1-Transferiu de A para B (1,5,2)
+4-Transferiu de B para C (1,4,3)
+5-Transferiu de C para A (4,4,0)
+----- Profundidade: 13
+
+----- SOLUCAO 14:
+0-Estado Inicial (A,B,C) (8,0,0)
+2-Transferiu de A para C (5,0,3)
+6-Transferiu de C para B (5,3,0)
+2-Transferiu de A para C (2,3,3)
+6-Transferiu de C para B (2,5,1)
+3-Transferiu de B para A (7,0,1)
+6-Transferiu de C para B (7,1,0)
+2-Transferiu de A para C (4,1,3)
+1-Transferiu de A para B (0,5,3)
+5-Transferiu de C para A (3,5,0)
+4-Transferiu de B para C (3,2,3)
+5-Transferiu de C para A (6,2,0)
+4-Transferiu de B para C (6,0,2)
+1-Transferiu de A para B (1,5,2)
+4-Transferiu de B para C (1,4,3)
+5-Transferiu de C para A (4,4,0)
+----- Profundidade: 15
+
+----- SOLUCAO 15:
+0-Estado Inicial (A,B,C) (8,0,0)
+2-Transferiu de A para C (5,0,3)
+6-Transferiu de C para B (5,3,0)
+2-Transferiu de A para C (2,3,3)
+6-Transferiu de C para B (2,5,1)
+3-Transferiu de B para A (7,0,1)
+6-Transferiu de C para B (7,1,0)
+2-Transferiu de A para C (4,1,3)
+6-Transferiu de C para B (4,4,0)
+----- Profundidade: 8
+
+----- SOLUCAO 16:
+0-Estado Inicial (A,B,C) (8,0,0)
+2-Transferiu de A para C (5,0,3)
+6-Transferiu de C para B (5,3,0)
+2-Transferiu de A para C (2,3,3)
+6-Transferiu de C para B (2,5,1)
+5-Transferiu de C para A (3,5,0)
+4-Transferiu de B para C (3,2,3)
+5-Transferiu de C para A (6,2,0)
+4-Transferiu de B para C (6,0,2)
+1-Transferiu de A para B (1,5,2)
+4-Transferiu de B para C (1,4,3)
+5-Transferiu de C para A (4,4,0)
+----- Profundidade: 11
+
+Encontrou 16 solucoes.
